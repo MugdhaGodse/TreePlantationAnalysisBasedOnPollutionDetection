@@ -1,0 +1,19 @@
+Type of Industries,CO2,SO2,NO2,Area in sq. m,area for planting,no_of_trees,tree name
+Pharmaceutical,290,250,300,202342,50585,215,cottonwood
+Rubber ,500,600,300,893000,223250,4646,Neem
+Automobile ,320,290,420,404684,101171,851,cottonwood
+Distillery,250,270,380,40468,10117,24,cottonwood
+Pesticide formation & mfg.,400,230,740,80937,20230,135,cottonwood
+Thermal Power,1500,1200,1000,607028,151757,4077,Peepal
+Automobile ,1300,1200,1000,1214056,303514,9967,Peepal
+Pesticide formation & mfg.,300,320,440,20234,5058,10,cottonwood
+Pharmaceutical,200,120,300,8093,2023,2,cottonwood
+Distillery,120,110,100,4046,1011,1,Peepal
+Automobile ,500,300,850,607028,151757,3168,cottonwood
+Pharmaceutical,250,270,380,4046,1011,1,cottonwood
+Automobile ,590,870,600,404685,101171,2056,neem
+Automobile ,600,750,500,708199,177049,4098,neem
+Pharmaceutical,300,320,440,34889,8722,23,cottonwood
+Pesticide formation & mfg.,150,160,120,1023,255,1,Peepal
+Distillery,90,100,80,3056,765,1,Peepal
+Automobile ,1200,1170,1080,506005,126501,2475,Neem
